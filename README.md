@@ -144,4 +144,4 @@ PostWeb1/
 Si deseas realizar una mejora técnica en el código de este repositorio, siéntete libre de crear un "Fork" y someter tu "Pull Request". ¡Cualquier cambio constructivo es completamente bienvenido!
 
 ---
-*Hecho por [Tu Nombre] - Creado para dominar la versatilidad de FastAPI + React.*
+*Hecho por FranTDev - Creado para dominar la versatilidad de FastAPI + React.*
